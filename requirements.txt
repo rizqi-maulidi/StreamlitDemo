@@ -12,4 +12,6 @@ python-dateutil==2.8.2
 keybert==0.9.0
 sentence-transformers>=5.1.0
 torch>=2.8.0
-transformers>=4.56.0 
+transformers>=4.56.0
+folium==0.14.0
+streamlit-folium==0.13.0 
